@@ -192,7 +192,7 @@ header input{
     font-weight: bold;
     font-size: large;
 }
-.contact{
+.contact{ background: #f7adee6b;
     padding: 0;
     list-style: none;
     display: flex;
